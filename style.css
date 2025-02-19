@@ -1,0 +1,32 @@
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 5rem;
+    color: #730000;
+    text-align: center;
+    margin: 0 auto;
+    padding: 30px;
+}
+body{
+    margin: 0 auto;
+    text-align: center;
+    background-color: #fff6e2;
+}
+#pics{
+    max-width: 500px;
+    margin: 0 auto;
+    padding-left: 90px;
+}
+.spidey{
+    margin: 0 auto;
+    text-align: center;
+    background-color: #730000;
+    width: 350px;
+    border-radius: 35px;
+    padding: 10px;
+    margin: 20px;
+}
+img{
+    max-width: 250px;
+    border-radius: 25px;
+}
